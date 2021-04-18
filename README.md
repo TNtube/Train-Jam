@@ -12,7 +12,7 @@ The game is entierly developed in python using the pygame library
 You'll need a python interpreter and use the commands :
 
 ```py
-pip install requirement.txt
+pip install requirements.txt
 ```
 
 and pass the `main.py` file in the interpretor by using :
